@@ -1,1 +1,2 @@
 To jest wspó³dzielony plik
+B pierwsza zmiana
