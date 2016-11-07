@@ -1,3 +1,4 @@
 To jest wspó³dzielony plik
 B pierwsza zmiana
-A zmiana numero 2B drugi commit
+A zmiana numero 2
+B drugi commit
